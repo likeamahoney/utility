@@ -1,5 +1,4 @@
 "set tabstop=4 shiftwidth=4 expandtab
-
 let g:copilot_proxy = '1.1.1.1:1'
 
 "let g:ycm_use_clangd = 1
