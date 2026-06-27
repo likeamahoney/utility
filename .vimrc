@@ -1,6 +1,6 @@
 "set tabstop=4 shiftwidth=4 expandtab
 
-let g:copilot_proxy = '195.250.84.236:3128'
+let g:copilot_proxy = '1.1.1.1:1'
 
 "let g:ycm_use_clangd = 1
 "let g:ycm_clangd_binary_path = '/home/yan/.vim/bundle/youcompleteme/third_party/ycmd/third_party/clangd/output/bin/clangd'
