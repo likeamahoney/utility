@@ -1,2 +1,2 @@
 # utility
-my config files
+my config files - vim and tmux
